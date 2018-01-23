@@ -1,6 +1,6 @@
 {
-  "name": "@jarrodldavis/probot-gpg",
-  "version": "0.5.0",
+  "name": "probot-gpg-status",
+  "version": "0.5.1",
   "description": "A GitHub App built with Probot that enforces GPG signatures on pull requests",
   "keywords": [
     "git",
